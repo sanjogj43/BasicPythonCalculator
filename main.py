@@ -23,7 +23,7 @@ def perform_math():
             previous = eval(equation)
         else:
             previous = eval(str(previous) + equation)
-        print(equation)
+        #print(previous)
 
 
 def main():
